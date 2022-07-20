@@ -273,7 +273,7 @@ const used = process.memoryUsage()
   neww = performance.now()
   oldd = performance.now()
 respon = `
- 💠 BotsApp has been integrated successfully. 💠\n\nUse the   *.help*   command to get a list of plugins that will make your WhatsApp experience much easier.\n\nIf you are impressed with my service, consider supporting the Bot on GitHub-\n https://github.com/BotsAppOfficial/BASexy-MD\n\nCheck out our official website for any new updates.
+ 💠 BotsApp has been integrated successfully. 💠\n\nUse the   *.help*   command to get a list of plugins that will make your WhatsApp experience much easier.\n\nIf you are impressed with my service, consider supporting the Bot on GitHub-\n https://https://github.com/blknighthat/BASexy-MD\n\nCheck out our official website for any new updates.
 \n\n💠 Runtime : ${runtime(process.uptime())} 💠
 `
   m.reply(respon)
