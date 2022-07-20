@@ -17,7 +17,7 @@
 
 
 ```bash
-git clone https://github.com/NzrlAfndi/BASexy-MD
+git clone https://github.com/blknighthat/BASexy-MD
 cd BASexy-MD
 yarn
 npm start
@@ -39,7 +39,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 pkg install yarn
-git clone https://github.com/NzrlAfndi/BASexy-MD
+git clone https://github.com/blknighthat/BASexy-MD
 cd BASexy-MD
 yarn
 npm start
