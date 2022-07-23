@@ -47,15 +47,20 @@ npm start
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
+apt update
+apt upgrade
+pkg install root-repo
+pkg install unstable-repo
+pkg install x11-repo
+apt install git 
+apt install nodejs 
+apt install ffmpeg 
 pkg install yarn
 git clone https://github.com/blknighthat/BASexy-MD
 cd BASexy-MD
 yarn
 npm start
+NOTE: say yes to all questions in the command line up
 ```
 
 ## Installing
